@@ -7,7 +7,6 @@ This web application is a **test run** of the learnings I had while creating and
 - **Node.js** (JavaScript runtime)
 - **Express.js** (Web framework for backend)
 - **EJS** (Templating engine for frontend rendering)
-- **MongoDB / PostgreSQL / MySQL** (Specify if applicable)
 - **Body-parser & Other Middleware**
 
 ## Setup & Installation
